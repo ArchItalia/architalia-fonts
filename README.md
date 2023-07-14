@@ -1,4 +1,4 @@
 # architalia-fonts
 
-![image](https://github.com/ArchItalia/architalia-fonts/assets/117321045/f86bba6b-6faf-4b61-b3ea-f931bb325737)
-
+* Architalia-Mono.eot
+* Architalia-Mono.woff2 Architalia-Regular.woff,  ArchitaliaTextMedium-Regular.ttf, Architalia-Mono.otf,  Architalia-Regular.otf,  Architalia-Regular.woff2, ArchitaliaTextMedium-Regular.woff, ArchitaliaTextMedium-Regular.otf,  ArchitaliaTextMedium-Regular.woff2, Architalia-Mono.ttf,  Architalia-Regular.ttf
