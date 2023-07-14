@@ -7,10 +7,7 @@ pkgdesc="Architalia-live fonts"
 arch=('any')
 license=('GPL')
 
+
 package() {
-   install -Dm755 *.eot "$pkgdir/$(eval echo ~${USER})/.local/share/fonts/"
-   install -Dm755 *.otf "$pkgdir/$(eval echo ~${USER})/.local/share/fonts/"
-   install -Dm755 *.ttf "$pkgdir/$(eval echo ~${USER})/.local/share/fonts/"
-   install -Dm755 *.woff "$pkgdir/$(eval echo ~${USER})/.local/share/fonts/"
-   install -Dm755 *.woff2 "$pkgdir/$(eval echo ~${USER})/.local/share/fonts/"
+   install -Dm755 * "$pkgdir/$HOME/.local/share/fonts"
 }
